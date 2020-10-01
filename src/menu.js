@@ -1,4 +1,3 @@
-/* exported createMenu */
 import Dish1 from './assets/images/dish-1.jpg';
 import Dish2 from './assets/images/dish-2.jpg';
 import Dish3 from './assets/images/dish-3.jpg';

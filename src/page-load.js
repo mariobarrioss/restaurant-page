@@ -1,5 +1,3 @@
-/* exported createHeroLayout */
-
 const content = document.querySelector('#content');
 
 export function createHeroLayout() {
