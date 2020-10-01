@@ -35,8 +35,9 @@ export function createHeroLayout() {
 export function createHomeContent() {
   const section = document.createElement('section');
   section.className = 'section';
+  section.id = 'content-section';
   const div = document.createElement('div');
-  div.className = 'container';
+  div.className = 'container page-content';
   const description = `
     <div class="content">
       <p>
