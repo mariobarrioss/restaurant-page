@@ -14,7 +14,7 @@
 
 The main goal of this project is to show the the benefits of modularized code as well as the ability to set up a javascript application made of different modules using webpack.
 
-![screenshot](./docs/screenshot.png)
+![screenshot](./docs/screenshot.jpg)
 
 ## Live Demo
 [Library](https://rawcdn.githack.com/mariobarrioss/library/6fc9c391ecace0a5a44610a2a937800d75af4f8a/index.html)
