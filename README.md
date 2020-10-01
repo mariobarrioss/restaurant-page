@@ -17,7 +17,7 @@ The main goal of this project is to show the the benefits of modularized code as
 ![screenshot](./docs/screenshot.jpg)
 
 ## Live Demo
-[Library](https://rawcdn.githack.com/mariobarrioss/library/6fc9c391ecace0a5a44610a2a937800d75af4f8a/index.html)
+[Restaurant Page](https://competent-khorana-4e2edf.netlify.app/)
 <!-- INSTALLATION -->
 ## Installation
 
