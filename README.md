@@ -27,7 +27,7 @@ Download or clone the [repo here](https://github.com/mariobarrioss/restaurant-pa
 This project was built using these technologies.
 * HTML
 * CSS3
-* Vanila Javascript
+* Javascript
 * Webpack
 
 <!-- AUTHORS -->
